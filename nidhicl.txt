@@ -1,0 +1,136 @@
+.html,
+.body {
+    scroll-behavior: smooth;
+}
+
+.form {
+    height: 500px;
+    width: 500px;
+    top: 200px;
+    left: 35%;
+    background-color: rgb(133, 109, 122);
+    border-radius: 35%;
+    position: relative;
+}
+
+.form:hover {
+    background-color: rgb(104, 80, 116);
+    cursor: pointer;
+}
+
+.us {
+    position: absolute;
+    top: 27%;
+    left: 10%
+}
+
+.us:hover{
+  color: rgb(179, 146, 57);
+}
+
+.em {
+    position: absolute;
+    top: 34%;
+    left: 10%
+}
+
+.em:hover{
+    color: rgb(179, 146, 57);
+  }
+
+.ps {
+    position: absolute;
+    top: 40%;
+    left: 10%
+}
+
+.ps:hover{
+    color: rgb(179, 146, 57);
+  }
+
+
+
+.us1 {
+    position: absolute;
+    top: 27%;
+    left: 30%
+}
+
+.us1:hover{
+    background-color: rgb(179, 146, 57);
+    cursor: pointer;
+    border: 2px solid red;
+}
+
+.em1 {
+    position: absolute;
+    top: 34%;
+    left: 30%
+}
+.em1:hover{
+    background-color: rgb(179, 146, 57);
+    cursor: pointer;
+    border: 2px solid red;
+}
+
+.ps1 {
+    position: absolute;
+    top: 40%;
+
+    left: 30%
+}
+
+.ps1:hover{
+    background-color: rgb(179, 146, 57);
+    cursor: pointer;
+    border: 2px solid red;
+}
+
+
+.bu {
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    border-radius: 35%;
+}
+
+.bu:hover{
+    background-color: rgb(179, 146, 57);
+    cursor: pointer;
+    border: 2px solid red;
+    color: darkgreen;
+}
+
+.ic{
+    position: absolute;
+    top: 10%;
+    left: 45%;
+  font-size: 35px;
+}
+
+.ic1{
+    position: absolute;
+    top: 12%;
+    left: 41%;
+  font-size: 35px;
+}
+
+.nidhi{
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+ background-color: aliceblue;
+ border-radius: 78%;
+ height: 100px;
+ width: 100px;
+}
+
+.nidhi1{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+ background-color: aliceblue;
+ border-radius: 78%;
+ height: 100px;
+ width: 100px;
+}
